@@ -92,5 +92,5 @@ Endpoints:
       - Frontend:      "/health"
         Backend:       ""
         Options:       { health: true }
-Source-Url: https://github.com/xltian/phptestonly.git
+Source-Url: file:///home/slave1/workdir/misc/perlv2cart/perlv2cart.zip
 #Source-Url: https://github.com/xltian/phptestonly/raw/master/phptestonly.tar.gz
